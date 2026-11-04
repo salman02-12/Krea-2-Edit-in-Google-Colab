@@ -2,7 +2,7 @@
 
 This repository contains a streamlined, easy-to-use Google Colab notebook designed to run the **Krea-2 Turbo Q6_K GGUF** model for AI image editing. Powered by ComfyUI, this tool allows you to upload an existing image, provide text instructions, and seamlessly edit it. It even supports uploading a second reference image to guide the edit, all running for free on a Google Colab T4 GPU.
 
-**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=soon)
+**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=kkGoSIRlykA)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1XrSZDPq6OI7oL4EsC9V_UfCz2cXb9_oo?usp=sharing)
 
